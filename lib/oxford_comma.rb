@@ -8,4 +8,4 @@ def oxford_comma(array)
   end
 end
 
-oxford_comma("blue", "blue", "blue", "blue", "blue", "blue")
+oxford_comma("blue")
